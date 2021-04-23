@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.inner-div{
+width: 96vw;
+margin-top: 15px;
+padding: 17px 26px;
+
+}
+
+.inner-div h2{
+font-size:2.5rem;
+}
+
+#showScore{
+    padding: 1rem 3rem;
+
+}
